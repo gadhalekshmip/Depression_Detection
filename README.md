@@ -1,5 +1,5 @@
 # Depression Detection
-This project focuses on the detection of depression by leveraging sentiment analysis using Naive Bayes and face recognition using Mediapipe. The model analyzes textual responses from individuals to the PHQ-9 questionnaire, a commonly used diagnostic tool for depression. By combining sentiment analysis and facial feature analysis, our model provides a robust and accurate method for detecting signs of depression.
+This project focuses on the detection of depression by  using Naive Bayes and face recognition using Mediapipe. The model analyzes textual responses from individuals to the PHQ-9 questionnaire, a commonly used diagnostic tool for depression. By combining sentiment analysis and facial feature analysis, our model provides a robust and accurate method for detecting signs of depression.
 
 ## You can install the required packages using the following command:
 
